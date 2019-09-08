@@ -1,0 +1,16 @@
+{
+  "extensionName": {
+    "message": "添加书签到此处",
+    "description": "Name of the extension."
+  },
+
+  "extensionDescription": {
+    "message": "增加 “添加书签到此处” 至书签右键菜单作为可选的增加书签方式。",
+    "description": "Description of the add-on."
+  },
+
+  "BTH_menuitemText": {
+    "message": "添加书签到此处(&H)",
+    "description": "Title of BTH context menu item."
+  }
+}
